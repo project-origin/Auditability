@@ -11,10 +11,12 @@ Granular certificates issued, based on Project Origins will be used in ESG repor
 In Project Origins implementation of granular certificates (GC'S), certificates is issued, claimed, slices and transfered into several registries all the while being contained in wallets controlled by owner of certificates or their agents. While a great deal of the systems relies on trust established by protocol, auditability functions is needed for claims to be trusted in processes outside of the GC issuer, registry ecosystem. 
 
 Let's take an exampe:
-`An auditor working on ESG report audits for hourly match of electricity consumption and VE production for the company under audit. An GC service provider has established a wallet containing a power purcase agreement for company site consumption and VE productions certificates, sliced to match 24/7 for a full year. The customer controls the wallet, hence:
+```text
+An auditor working on ESG report audits for hourly match of electricity consumption and VE production for the company under audit. An GC service provider has established a wallet containing a power purcase agreement for company site consumption and VE productions certificates, sliced to match 24/7 for a full year. The customer controls the wallet, hence:
 1. The auditor needs a delegated access to the wallet.
 2. The auditor needs to verify the authenticity of certificates by matching a sample or all certificates against a relevant registry.
-3. The auditor needs to varify energy amounts and match of claims to audit that this does in fact match the PPA VE production against site consumption 24/7 of the year. If checking a sample leads to no errors, thus is ususally enaugh for the auditor to sign off the reported emissions.`
+3. The auditor needs to varify energy amounts and match of claims to audit that this does in fact match the PPA VE production against site consumption 24/7 of the year. If checking a sample leads to no errors, thus is ususally enaugh for the auditor to sign off the reported emissions.
+```
 
 ## Context
 
